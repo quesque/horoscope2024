@@ -11,7 +11,7 @@
        
     </head>
 <body>
-<img src="images/horoscopeico.gif" alt="logo horoscope"><img src="images/astrologie.gif" alt="logo astrologie">
+<img src="images/HoroscopeIco.gif" alt="logo horoscope"><img src="images/Astrologie.gif" alt="logo astrologie">
 <div id="blocCivilite">
 <?php 
 

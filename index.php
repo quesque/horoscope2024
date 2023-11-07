@@ -12,7 +12,7 @@
     </head>
 <body>
         
-<img src="images/horoscopeico.gif" alt="icone horoscope"><img src="images/astrologie.gif" alt="logoAstrologie">
+<img src="images/HoroscopeIco.gif" alt="icone horoscope"><img src="images/Astrologie.gif" alt="logoAstrologie">
 <form method="POST" action="afficheResultat.php">
     <div id="blocCivilite">   
     
@@ -55,28 +55,28 @@
 <div id="blocLogosDesSignes">
   <table>
     <tr>
-      <td><img src="images/belier.gif" alt ="imageBelier"></td>
-      <td><img src="images/taureau.gif" alt="imageTaureau"></td>
+      <td><img src="images/Belier.gif" alt ="imageBelier"></td>
+      <td><img src="images/Taureau.gif" alt="imageTaureau"></td>
     </tr>
     <tr>
-      <td><img src="images/gemeaux.gif" alt="imageGemeaux"></td>
-      <td><img src="images/cancer.gif" alt="imageCancer"></td>
+      <td><img src="images/Gemeaux.gif" alt="imageGemeaux"></td>
+      <td><img src="images/Cancer.gif" alt="imageCancer"></td>
     </tr>
     <tr>
-      <td><img src="images/lion.gif" alt="imageLion"></td>
-      <td><img src="images/vierge.gif" alt="imageVierge"></td>
+      <td><img src="images/Lion.gif" alt="imageLion"></td>
+      <td><img src="images/Vierge.gif" alt="imageVierge"></td>
     </tr>
     <tr>
-      <td><img src="images/balance.gif" alt="imageBalance"></td>
-      <td><img src="images/scorpion.gif" alt="imageScorpion"></td>
+      <td><img src="images/Balance.gif" alt="imageBalance"></td>
+      <td><img src="images/Scorpion.gif" alt="imageScorpion"></td>
     </tr>
     <tr>
-      <td><img src="images/sagittaire.gif" alt ="imageSagittaire"></td>
-      <td><img src="images/capricorne.gif" alt="imageCapricorne"></td>
+      <td><img src="images/Sagittaire.gif" alt ="imageSagittaire"></td>
+      <td><img src="images/Capricorne.gif" alt="imageCapricorne"></td>
     </tr>
     <tr>
-      <td><img src="images/verseau.gif" alt="imageVerseau"></td>
-      <td><img src="images/poissons.gif" alt="imagePoisson"></td>
+      <td><img src="images/Verseau.gif" alt="imageVerseau"></td>
+      <td><img src="images/Poissons.gif" alt="imagePoisson"></td>
     </tr>
   </table>
 </div>
